@@ -39,7 +39,7 @@ ul { margin: 0; padding: 0; list-style: none; }
 .screens .center { display: block; margin: 0 auto; width: 100%; max-width: 900px; }
 .screens .center .app-screens { position: relative; top: -520px; right: 0; float: right; }
 .screens .center .app-screens .phone { z-index: 3; position: absolute; top: 0; right: 0; width: 348px; height: 692px; background: url(../images/phone.png) center center no-repeat; background-size: 348px 692px; }
-.screens .center .app-screens .screen-slides { z-index: 2; position: absolute; top: 21px; right: 24px; width: 300px; height: 650px; background-color: #FFFFFF; }
+.screens .center .app-screens .screen-slides { z-index: 2; position: absolute; top: 21px; right: 24px; width: 300px; height: 650px; background: #FFFFFF; }
 .screens .center .app-screens .screen-slides .slide { float: left; width: 100%; display: none; }
 .screens .center .app-screens .screen-slides .slide img { float: left; width: 100%; }
 
